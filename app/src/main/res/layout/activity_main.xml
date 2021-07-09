@@ -23,6 +23,13 @@
             android:checked="false"
             android:text="Blue" />
 
+        <RadioButton
+            android:id="@+id/radioButton_magenta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="Magenta" />
+
     </RadioGroup>
 
 </RelativeLayout>
