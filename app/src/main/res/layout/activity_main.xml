@@ -30,6 +30,12 @@
             android:checked="false"
             android:text="Magenta" />
 
+        <RadioButton
+            android:id="@+id/radioButton_yellow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="Yellow" />
     </RadioGroup>
 
 </RelativeLayout>
